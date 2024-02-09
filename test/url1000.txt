@@ -1,0 +1,13 @@
+https://yandex.ru/
+https://vk.com/
+https://ok.ru/
+https://mail.ru/
+https://www.avito.ru/
+https://youtube.ru/
+https://rambler.ru/
+https://www.facebook.com/
+https://aliexpress.ru/
+wrong.uri.schema
+simpleLine
+
+foo bar
